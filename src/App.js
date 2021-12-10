@@ -9,7 +9,7 @@ function App() {
     return (
         <div>
             <CheckBox onChange={onChange} checked={check}>
-                다음 약관에 모두 동의
+                다음 약관에 모두 동의.
             </CheckBox>
         </div>
     );
